@@ -31,7 +31,7 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={azza} alt="az" className="img-fluid" style={{width:"330px",height:"330px",marginLeft:"100px"}} />
+            <img src={azza} alt="az" className="img-fluid" style={{width:"400px",height:"400px",marginLeft:"100px"}} />
           </Col>
         </Row>
         <h1 className="project-heading">
