@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.de46712d.css",
-    "main.js": "/Portfolio/static/js/main.92a3b12f.js",
+    "main.js": "/Portfolio/static/js/main.60305b8b.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/az.jpg": "/Portfolio/static/media/az.0cd4471c32a3e308aa5c.jpg",
     "static/media/leaf.png": "/Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/azza__.jpeg": "/Portfolio/static/media/azza__.1234f6542a3fbcdef0e6.jpeg",
     "static/media/ia_.png": "/Portfolio/static/media/ia_.bc1d30604c2cd103c552.png",
     "static/media/disease_detection.png": "/Portfolio/static/media/disease_detection.a2bef2a17e6b57da1111.png",
     "static/media/az.pdf": "/Portfolio/static/media/az.259e20530626028137cc.pdf",
@@ -25,12 +25,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.de46712d.css.map": "/Portfolio/static/css/main.de46712d.css.map",
-    "main.92a3b12f.js.map": "/Portfolio/static/js/main.92a3b12f.js.map",
+    "main.60305b8b.js.map": "/Portfolio/static/js/main.60305b8b.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de46712d.css",
-    "static/js/main.92a3b12f.js"
+    "static/js/main.60305b8b.js"
   ]
 }
