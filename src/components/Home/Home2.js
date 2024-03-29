@@ -51,7 +51,7 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        Bonjour
+        &nbsp;
       </Container>
     </Container>
   );
