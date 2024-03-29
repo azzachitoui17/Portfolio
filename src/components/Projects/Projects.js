@@ -34,7 +34,7 @@ function Projects() {
               isBlog={false}
               title="Detection of Diseases"
               description="Designing and developing a mobile application based on artificial intelligence to detect plant anomalies, using Flutter and Python for machine learning. ."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
+             
             
             />
           </Col>
@@ -46,7 +46,7 @@ function Projects() {
               isBlog={false}
               title="SmartIrrigation"
               description="Designing and developing a smart irrigation mobile application integrating an artificial intelligence module for detecting plant anomalies, along with an IoT component for predicting temperature and humidity to maintain plant health. Using Python (machine learning), Flutter, and Express.js.."
-              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              
               
             />
           </Col>
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Management of Employers"
               description="Designing and developing a website for employer management using Spring Boot, React.js, Vite, and PostgreSQL."
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
+             
                         
             />
           </Col>
@@ -68,7 +68,6 @@ function Projects() {
               isBlog={false}
               title="Task Management"
               description="Designing and developing a website for task management using Spring Boot, React.js, Vite, and PostgreSQL.."
-              // ghLink="https://github.com/soumyajit4419/Plant_AI"
              
             />
           </Col>
@@ -79,9 +78,7 @@ function Projects() {
               isBlog={false}
               title="Product Management"
               description="Designing and developing a website for product management using React.js and Express.js."
-              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
-            />
+               />
           </Col>
 
           <Col md={4} className="project-card">
@@ -90,9 +87,7 @@ function Projects() {
               isBlog={false}
               title="Connect-4"
               description="Design and development of a website for a game using React.js.."
-              // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
-            />
+                  />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
